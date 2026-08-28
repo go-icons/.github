@@ -34,6 +34,8 @@ redistributed unmodified, with the original licence alongside it in each repo.
 | <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-seti.png" width="36"> | [`seti`](https://github.com/go-icons/seti) | Seti UI file-type icons as embedded SVG, for pure-Go UIs |
 | <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-material.png" width="36"> | [`material`](https://github.com/go-icons/material) | Material Icon Theme file-type icons as embedded SVG, for pure-Go UIs |
 | <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-iconoir.png" width="36"> | [`iconoir`](https://github.com/go-icons/iconoir) | Iconoir UI icons as embedded SVG, for pure-Go UIs |
+| <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-vscode-icons.png" width="36"> | [`vscode-icons`](https://github.com/go-icons/vscode-icons) | vscode-icons file-type icons as embedded SVG, for pure-Go UIs |
+| <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-devicon.png" width="36"> | [`devicon`](https://github.com/go-icons/devicon) | Devicon language & tool logos as embedded SVG, for pure-Go UIs |
 
 ## Links
 
