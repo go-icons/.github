@@ -40,6 +40,7 @@ being true the moment a repository does not fit it.
 | <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-vscode-icons.png" width="36"> | [`vscode-icons`](https://github.com/go-icons/vscode-icons) | vscode-icons file-type icons as embedded SVG, for pure-Go UIs |
 | <img src="https://raw.githubusercontent.com/go-icons/brand/main/avatar/go-icons-devicon.png" width="36"> | [`devicon`](https://github.com/go-icons/devicon) | Devicon language & tool logos as embedded SVG, for pure-Go UIs |
 | | [`simple-icons`](https://github.com/go-icons/simple-icons) | Simple Icons **brand** logos as embedded SVG, keyed by brand name rather than by file name — CC0-1.0, not MIT. *(No avatar yet: the brand assets are generated, and the generator does not live in `go-icons/brand`.)* |
+| | [`twemoji`](https://github.com/go-icons/twemoji) | Twemoji **emoji** graphics as embedded SVG, plus markdown-it-emoji's `:shortcode:` table. The graphics are CC-BY-4.0, not MIT: attribution is required. *(No avatar yet, for the same reason.)* |
 
 ## Links
 
